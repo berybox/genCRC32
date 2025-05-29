@@ -1,0 +1,5 @@
+{
+    "git.postCommitCommand": "push",
+    "scm.alwaysShowRepositories": true,
+    "git.autofetch": true,
+}
