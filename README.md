@@ -12,7 +12,9 @@
 
 ## Installation
 
-Clone the repository and build using Go:
+Download and run binary file from Releases
+
+or clone the repository and build using Go:
 
 ```bash
 git clone https://github.com/berybox/genCRC32.git
@@ -20,7 +22,7 @@ cd genCRC32/cmd
 go build
 ```
 
-or use appropriate binary from Releases
+
 
 ## Usage
 
@@ -69,4 +71,4 @@ Example:
 
 ## Reference
 
-This work builds upon established bioinformatics methodologies and CRC32 principles. Detailed explanations and tests can be found in the associated manuscript available upon publication. Currently under revew.
+This work builds upon established bioinformatics methodologies and CRC32 principles. Detailed explanations and tests can be found in the associated manuscript available upon publication. Currently under review.
