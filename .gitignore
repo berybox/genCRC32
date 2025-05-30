@@ -1,0 +1,17 @@
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+debug
+__debug_bin
+
+# Test binary, built with `go test -c`
+*.test
+
+# Go workspace file
+#go.work
+
+.env
+
